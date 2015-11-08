@@ -1,0 +1,15 @@
+school
+disordered
+disorderly
+disobliges
+children
+-mancy
+-ty
+1 to many relationship
+1-byte character set
+1-byte character string
+2D (two dimension)
+irritativeness
+love
+sea chestnut
+tree
